@@ -23,7 +23,7 @@ This desktop app replaces manual contact records with a simple, organized interf
 ## Screenshots
 
 ### Main Window
-![Main Window](screenshots/Contact_Book_Dashboard.jpeg)
+![Main Window](screenshots/Contact_Book%20Dashboard.jpeg)
 
 ### Add Contact
 ![Add Contact](screenshots/Contact_Book_Add.jpeg)
