@@ -20,6 +20,26 @@ This desktop app replaces manual contact records with a simple, organized interf
 - Tkinter (GUI)
 - MySQL
 
+## Screenshots
+
+### Main Window
+![Main Window](screenshots/Contact_Book_Dashboard.jpeg)
+
+### Add Contact
+![Add Contact](screenshots/Contact_Book_Add.jpeg)
+
+### View Contacts
+![View Contacts](screenshots/Contact_Book_View.jpeg)
+
+### Search Contact
+![Search Contact](screenshots/Contact_Book_Search.jpeg)
+
+### Update Contact
+![Update Contact](screenshots/Contact_Book_Update.jpeg)
+
+### Delete Contact
+![Delete Contact](screenshots/Contact_Book_Delete.jpeg)
+
 ## Database Setup
 
 Create the database and table before running the app. Edit the columns to match the ones used in the code:
